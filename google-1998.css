@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 400px;
+    height: 100px;
+    margin: 10px auto 15px;
+
+}
+
+.box{
+    text-align: center;
+    background-color: rgb(215, 222, 215);
+    /* margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px; */
+    margin: 0;
+    padding: 0;
+  
+}
+
+.container{
+    width: 1320px;
+    height: 800px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;    
+}
+
+.card{
+    width: 438px;
+    height: 90px;
+    float: left;
+    background-color:rgb(116, 192, 209);
+    margin-right: 2px;
+    margin-top: 3px;
+}
+
+
+.copyright{
+    text-align: center;
+}
+
+
+
